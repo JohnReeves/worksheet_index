@@ -5,17 +5,17 @@ I have been put on 3 weeks furlough, so I am taking the time to make an evolving
 
 
 # 1. Interactive emoji;   
-* create an svg image and interaction using jquery;
+* create an image using scalable vector graphics; 
+* make the image interactive using jquery;
 * used as a 'who am I' project for year 7s;   
-* fun that just grows & grows!      
 
 [www.grubmz6v.com/emoji](https://www.grubmz6v.com/emoji.html)
 
 [layout](https://gist.github.com/JohnReeves/959dec6ce712095bdfd8f8f0893d7a28) | [colour](https://gist.github.com/JohnReeves/0cdfb7540e505fda35474e433749ec6a) | [interactivity](https://gist.github.com/JohnReeves/75d62261dfb68fdbf4d57fd0872f33bc) | [more shapes](https://gist.github.com/JohnReeves/fd4028c0a18cbdbec468b4dbb8a08de9).  
 
 # 2. Solar System;   
-* create an svg solar system and movement using jquery;
-* use sin and cos functions to move the planets.        
+* create a solar system using scalar vector graphics;
+* make the planets move using sin and cos functions written in javascript.        
 
 [www.grubmz6v.com/planets](https://www.grubmz6v.com/planets.html)
 
@@ -30,8 +30,10 @@ I have been put on 3 weeks furlough, so I am taking the time to make an evolving
 [xray](https://gist.github.com/JohnReeves/ac412b51c9a226f475a2) | [html](https://gist.github.com/JohnReeves/98dd5d244a772d126efb) | [css](https://gist.github.com/JohnReeves/b63df8a0015962aea7bd) | [images](https://gist.github.com/JohnReeves/a6b5188ff61187ef58bc) | [tables](https://gist.github.com/JohnReeves/3479816c4653938cbb4a) | [javascript](#).  
 
 # 4. Ciphers;   
-* create an cipher app using jquery;
-* .        
+* create an cipher app using html, css & javascript:
+* make some text boxes and buttons using html;
+* make the form beautiful with css and material design colours;
+* encode and decode the input message with functions written in javascript.        
 
 [www.grubmz6v.com/ciphers](https://www.grubmz6v.com/ciphers.html)
 
